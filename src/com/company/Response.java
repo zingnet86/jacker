@@ -49,4 +49,11 @@ public class Response {
         System.out.println(this.result);
         return;
     }
+
+    public void setAndSend(String result) {
+        this.set(result);
+        this.send();
+        return;
+    }
+
 }
