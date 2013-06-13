@@ -20,7 +20,8 @@ public class Storage {
 
     public Storage() {
         // конструктор
-        this.tasks[1] = new String[]{"Название задачи", "2013-10-10 11:12:13", "2013-10-10 11:12:14"};
+        // this.tasks[1] = new String[]{"Название задачи", "2013-10-10 11:12:13", "2013-10-10 11:12:14"};
+        return;
     }
 
     public String[] add() {

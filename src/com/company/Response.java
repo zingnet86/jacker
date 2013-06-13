@@ -16,8 +16,7 @@ public class Response {
     /**
      * Конструктор объекта ответа
      */
-    Response() {
-
+    public Response() {
     }
 
     /**
